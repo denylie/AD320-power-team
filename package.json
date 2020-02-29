@@ -15,5 +15,18 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.2"
-  }
+  },
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denylie/AD320-power-team.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/denylie/AD320-power-team/issues"
+  },
+  "homepage": "https://github.com/denylie/AD320-power-team#readme",
+  "description": ""
 }
